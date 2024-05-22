@@ -35,5 +35,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Justin McDonald](https://justinmcdonald.site)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Peluchemoreno)
-
+- Frontend Mentor - [@Peluchemoreno](https://www.frontendmentor.io/profile/Peluchemoreno)
